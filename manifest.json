@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "auto-expand-node",
+	"name": "Auto Expand Node",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Auto expand canvas node while typing",
+	"author": "TommyRoy776",
+	"authorUrl": "https://github.com/TommyRoy776",
+	"fundingUrl": "https://www.linkedin.com/in/ming-wai-tommy-chan-914771205/",
 	"isDesktopOnly": false
 }
