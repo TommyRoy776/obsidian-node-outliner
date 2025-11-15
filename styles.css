@@ -6,3 +6,8 @@ available in the app when your plugin is enabled.
 If your plugin does not need CSS, delete this file.
 
 */
+
+.custom-node-border{
+    border: "2px solid red";
+    border-radius: "6px";
+}
