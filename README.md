@@ -2,7 +2,7 @@
 
 Change the Node border styles so users can easily identify important nodes in canvas, 
 providing an alternative of color highlighter that makes Obsidian colorblind friendly(border itself can also be colored by perference) 
-![Demo](assets\node-outliner.gif)
+![Demo](assets/node-outliner.gif)
 
 ## First time developing plugins?
 
